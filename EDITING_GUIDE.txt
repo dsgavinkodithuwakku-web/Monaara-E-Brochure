@@ -1,0 +1,85 @@
+MONAARA LEISURE BROCHURE — QUICK EDITING GUIDE
+
+IMPORTANT
+- Do not edit the ZIP file directly. Extract it first.
+- Make a backup copy of the extracted folder before editing.
+- Keep the folder structure intact: HTML files need the assets/ and downloads/ folders beside them.
+- The website is a static HTML site, not a drag-and-drop editor. Use Visual Studio Code or Notepad++ for easier searching and editing.
+- After editing, open index.html in Chrome/Edge to preview it.
+
+WHICH FILE TO EDIT?
+- index.html: homepage heading, introduction, slideshow images, homepage property cards, public partner section, reviews, social links and download button.
+- anuradhapura.html: Anuradhapura page wording, facilities, attractions, room details and picture references.
+- ella.html: Ella page wording, facilities, attractions, room details and picture references.
+- nuwara-eliya.html: Nuwara Eliya page wording and picture references.
+- colombo-03.html: Colombo 03 apartment page wording and picture references.
+- travel-trade.html: dedicated public travel-agent page and partner wording.
+- styles.css: colours, font sizes, layout, spacing, slideshow appearance and other styling.
+- assets/: photographs used in the website.
+- assets/maps/: maps shown on individual property pages.
+- image-credits.html and image-credits.txt: image-source notes.
+- downloads/Monaara_Leisure_Comprehensive_Trade_Brochure.pdf: PDF file served from the website. It does NOT update automatically when you edit HTML.
+
+HOW TO CHANGE A PHOTO WITHOUT EDITING CODE
+1. Open the assets folder.
+2. Find the existing image filename you want to replace, e.g. ella-terrace.jpg.
+3. Keep a backup of the original.
+4. Copy your new photo into assets/ and give it exactly the same filename and extension as the original (e.g. ella-terrace.jpg). Confirm Windows has not added a hidden extra extension such as .jpg.jpg.
+5. Reload the relevant page in the browser. If the old image persists, hard-refresh with Ctrl+F5.
+
+This replaces that image everywhere that filename is used. For a unique photo used only on one page, add the new image under a new filename to assets/ and change the relevant HTML image path instead.
+
+HOW TO CHANGE THE HOMEPAGE SLIDESHOW
+1. Open index.html in VS Code or Notepad++.
+2. Use Ctrl+F to find: hero-slide
+3. Each slide has a background-image reference. A local photo looks like:
+   background-image:url('assets/ella-terrace.jpg')
+4. Change the filename to a photo in assets/, keeping the quotes and brackets, e.g.:
+   background-image:url('assets/ella-mountain.jpg')
+5. The nearby aria-label describes the image for accessibility. Update it to accurately describe the new image.
+6. To remove a slide, remove its full <div class="hero-slide ...">...</div> element carefully. To add a slide, duplicate an existing slide element and change the image path and aria-label.
+
+Some slideshow images currently use external image URLs. To use a property photo instead, replace the URL inside background-image:url('...') with a local path such as assets/anu-garden-pool.jpg. External images require internet access and may change or become unavailable.
+
+HOW TO CHANGE HEADINGS OR WORDING
+1. Open the relevant HTML file.
+2. Press Ctrl+F and search for the exact heading or sentence you see in the browser.
+3. Replace only the wording between the tags; keep tags such as <h1>, <h2>, <p>, <strong> and </...> intact.
+4. Save and reload the page.
+
+Example:
+Before: <h1>Four stays.<br>One island of possibilities.</h1>
+After:  <h1>Discover Sri Lanka with Monaara Leisure.</h1>
+
+HOW TO CHANGE THE IMAGE DESCRIPTION / ALT TEXT
+Find the image in the relevant HTML page and edit its alt="..." text. This is mainly used by screen readers and is not normally visible as a caption on the page. Visible captions are separate headings or paragraphs nearby.
+
+HOW TO CHANGE PARTNER NAMES, SOCIAL LINKS OR REVIEWS
+- Current partner names: index.html and travel-trade.html. Only list partners that have approved the public mention.
+- Facebook / Instagram / website URLs: search for the existing URL in index.html and replace the URL inside href="...". Preserve the visible link text between the <a> tags.
+- Review text and review destinations: search for the review heading or score in index.html and edit both the wording and the relevant href URL. Check scores/counts before public release because they change.
+
+HOW TO CHANGE MAPS
+- Map image files are under assets/maps/.
+- The Ella supplied map photo is assets/ella-map-clean.jpg and is shown on the Ella page.
+- The four schematic maps are generated for orientation and are not to scale. If replacing one, keep the same filename or update the image path in the corresponding HTML page.
+
+IMPORTANT ABOUT THE PDF AND QR CODE
+- Editing the website does not automatically change the comprehensive PDF. They are separate files.
+- After major text or photo changes, the PDF must be regenerated so both versions match.
+- The updated package deliberately contains no QR code yet, because the earlier code pointed to the existing website. Once the new brochure is publicly hosted, generate a QR code for the brochure URL and add it to the PDF and print card artwork.
+- Keep the private registration count and travel-agent prospect tracker out of the public website.
+
+SAFE WORKFLOW
+1. Make a backup.
+2. Edit one page or photo at a time.
+3. Save and preview in Chrome/Edge.
+4. Click every navigation, review, social, WhatsApp and PDF link.
+5. Check the pages on a narrow/mobile browser window.
+6. Only replace the published website after approval and after confirming image rights and property facts.
+
+HOW TO UPDATE TRAVEL-AGENT RATES
+- Rate tables are on the relevant property page inside a section with class="rate-panel" and id="rates".
+- The Anuradhapura, Ella and Nuwara Eliya rate tables are separate. Colombo 03 is quote-on-request because no rate sheet was supplied.
+- When changing a rate, update both the visible table value and the matching rate page in the comprehensive PDF under downloads/. The PDF will not update automatically.
+- All rate values in this draft are indicative and negotiable; have management confirm the final numbers, room-category mapping, inclusions and terms before public release.

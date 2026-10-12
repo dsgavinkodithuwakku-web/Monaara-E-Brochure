@@ -1,0 +1,38 @@
+MONAARA LEISURE BROCHURE - IMAGE AND LINK NOTES
+
+Property photos: supplied by Monaara Leisure in /mnt/data/images.zip (property photos).
+Ella visitor map: photo supplied by management in WhatsApp Image 2026-10-12 at 11.16.27.jpeg. Distances displayed in the original photo are map-specific and should be verified before reuse.
+Nine Arch Bridge: Unsplash search result page: https://unsplash.com/photos/train-railway-BZ3aE3ouAfc ; direct display asset: https://images.unsplash.com/photo-1568918223153-767f849acbab?fm=jpg&q=80&w=1800
+Ruwanwelisaya: UNESCO World Heritage Centre image asset: https://whc.unesco.org/uploads/thumbs/site_0200_0006-1000-667-20150608110549.jpg
+Jetavanaramaya: Wikimedia Commons file page: https://commons.wikimedia.org/wiki/File:SL_Anuradhapura_asv2020-01_img24_Jetavanaramaya_Stupa.jpg (page indicates Free Art License; credit A. Savin).
+Lake Gregory: Trip.com Moments image source: https://www.trip.com/moments/detail/nuwara-eliya-district-23067-123440865/
+Colombo apartment: external public image reference URL https://a0.muscache.com/im/pictures/hosting/Hosting-987334966702827205/original/ee721d80-056a-4e3a-b97c-fc98724e9c9f.jpeg . This is NOT the Monaara apartment; only a style reference. Replace with actual property photos.
+Safari: Tripadvisor attraction media URL https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/09/b3/12/0b.jpg ; illustrative safari image, not a guaranteed animal sighting.
+Colombo landmark photos: Wikimedia Commons Special:FilePath reference images linked from images in search results. Exact source page and license should be rechecked before final commercial publication.
+
+Review links: Anuradhapura Booking.com https://www.booking.com/hotel/lk/monaara-hotels.html ; Google reviews search https://www.google.com/search?q=Monaara+Leisure+Anuradhapura+reviews . Ella Booking.com https://www.booking.com/hotel/lk/monaara-leisure-ella.html ; Tripadvisor https://www.tripadvisor.com/Hotel_Review-g616035-d34222699-Reviews-Monaara_leisure_Ella-Ella_Uva_Province.html . Nuwara Eliya Booking.com https://www.booking.com/hotel/lk/monaara-leisure-nuwaraeliya.en-gb.html
+
+Public partner official websites: Andrew The Travel Company https://andrewstrav.com/ ; Jetwing Travels https://jetwingtravels.com/ ; Aitken Spence Travels https://www.aitkenspencetravels.com/ ; Tropical Asia Tours https://tropicalasiatours.com/ ; Ceylon Escapade Partners https://ceylonescapade.com/
+
+Nuwara Eliya tea plantation reference: Egle Sidaraviciute, “green farm on mountain slope”, Unsplash, https://unsplash.com/photos/green-farm-on-mountain-slope-RA0ulK_q67w (free to use under the Unsplash License; used as destination imagery, not as a Monaara property photo). Direct image CDN URL: https://images.unsplash.com/photo-1559038300-07cb5d6c3d27?auto=format&fit=crop&fm=jpg&q=85&w=1800
+
+Ella page update (12 Oct 2026): Ella bedroom setup photographs and Ella tourist map are supplied by Monaara Leisure/user. Bathroom photo retained and relabelled as bathroom imagery.
+
+Anuradhapura room gallery: supplied by the user for Monaara Leisure. The gallery includes a family-style bed arrangement, double-bed setup, triple-bed setup (double plus single bed), and a separate two-bed room view; filenames: assets/anu-family-room.webp, assets/anu-double-bed-room.webp, assets/anu-multi-bed-room.webp, assets/anu-two-bed-room.jpg.
+Anuradhapura external attraction reference photographs (web display):
+- Ruwanwelisaya Stupa: Philip Nalangan, Wikimedia Commons, CC BY 4.0. Source: https://commons.wikimedia.org/wiki/File:Ruwanwelisaya_Stupa_Anuradhapura.jpg
+- Jaya Sri Maha Bodhi: Nipuna Gamage, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Jaya_Sri_Maha_Bodhi_-_Anuradhapura.jpg
+- Jetavanaramaya: A. Savin, Wikimedia Commons, Free Art License. Source: https://commons.wikimedia.org/wiki/File:SL_Anuradhapura_asv2020-01_img24_Jetavanaramaya_Stupa.jpg
+- Isurumuniya: Harshanamiyuranga, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Isurumuniya.jpg
+- Mihintale / Ambasthala Stupa: Leelack619, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Mihinthale.jpg
+- Abhayagiri Stupa: Nicolas Chadeville, Wikimedia Commons, CC BY 4.0. Source: https://commons.wikimedia.org/wiki/File:The_Abhayagiri_Dagoba_(stupa)_in_Anuradhapura,_Sri_Lanka.jpg
+Attraction images are illustrative photos of the destination, not images of Monaara Leisure property. Verify licensing/attribution requirements before commercial publication, and retain the visible attribution links in page captions.
+
+
+Fine-tuning update (12 Oct 2026):
+- Anuradhapura bathroom vanity and shower photographs: supplied by the user (files c0a74339.jpg and c7d464dc.jpg); converted to optimized WebP for the room gallery.
+- Anuradhapura rooftop pavilion photograph: supplied by the user (275327297.jpg); optimized as assets/anu-rooftop-pavilion.webp.
+- Anuradhapura evening pool photograph: supplied by the user (1031278648.webp); optimized as assets/anu-evening-pool.webp.
+- Additional Anuradhapura property-listing photographs are displayed from Monaara Leisure's public Booking.com listing: https://www.booking.com/hotel/lk/monaara-hotels.en-gb.html (direct photo assets hosted by Booking.com).
+- Nuwara Eliya tea-country view: Erik Esly, Unsplash, “Lush green tea plantation on a misty hillside”, https://unsplash.com/photos/lush-green-tea-plantation-on-a-misty-hillside-ZWdrM9IBBIE. Direct image asset: https://images.unsplash.com/photo-1760532511219-c8b7566f90af?auto=format&fit=crop&fm=jpg&q=85&w=1800.
+- The uploaded image image(20261012-113641).png is a screenshot of a page gallery rather than a standalone photograph; it is not embedded as a photo. Individual image assets are used instead to avoid showing screenshot borders or UI in the public brochure.
